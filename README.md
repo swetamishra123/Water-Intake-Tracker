@@ -34,3 +34,29 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Water-Intake-Tracker.git
+2. Navigate to the project directory:
+
+     ```bash
+     cd Water-Intake-Tracker
+3. Open the [index.html](index.html) file in your web browser.
+
+## Usage
+
+1.Open the web application.
+2. Click on the small cups to record each glass of water you drink.
+3. The application will display your progress and how much water you have remaining to reach your daily goal.
+
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/your-feature-name).
+3. Make changes or updates.
+4. Commit your changes (git commit -m 'Add some feature').
+5. Push the branch (git push origin feature/your-feature-name).
+6. Open a pull request.
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
